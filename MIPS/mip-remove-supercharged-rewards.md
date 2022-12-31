@@ -60,6 +60,7 @@ This yields the following table for early and recent epochs, indicating the lowe
 | 40    | 802,958,437  | 966,042,291    | 83.1%        |
 | 41    | 807,687,555  | 970,887,589    | 83.2%        |
 | 42    | 769,348,517  | 975,671,217    | 78.9%        |
+| 43    | 775,328,073  | 980,329,508    | 79.1%        |
 
 ## Specification
 
